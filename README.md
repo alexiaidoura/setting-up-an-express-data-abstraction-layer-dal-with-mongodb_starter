@@ -10,7 +10,7 @@ run docker run -p 27017:27017 --name badbank -d mongo
 run node index.js
 
 # screenshots
-
+Screen Shot 2022-09-04 at 11.14.54 PM.png
 
 # technology used
 MERN
